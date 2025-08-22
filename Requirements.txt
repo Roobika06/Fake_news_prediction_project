@@ -1,0 +1,5 @@
+pip freeze > requirements.txt
+This will list all the Python libraries you used.
+jupyter notebook
+python libraries
+machine learning
